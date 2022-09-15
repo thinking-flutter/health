@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Outdoor Run",
+    "range": 1.31,
+    "kcal": 140,
+    "duration": "00:12:32",
+    "totalSteps": 8372,
+    "avgHeartRate": 120
+  },
+  {
+    "type": "Outdoor Run",
+    "range": 0.81,
+    "kcal": 40,
+    "duration": "00:03:32",
+    "totalSteps": 1035,
+    "avgHeartRate": 78
+  },
+  {
+    "type": "Outdoor Run",
+    "range": 1.76,
+    "kcal": 150,
+    "duration": "00:25:32",
+    "totalSteps": 12472,
+    "avgHeartRate": 120
+  },
+  {
+    "type": "Outdoor Run",
+    "range": 2.13,
+    "kcal": 193,
+    "duration": "00:38:14",
+    "totalSteps": 32023,
+    "avgHeartRate": 100
+  },
+  {
+    "type": "Outdoor Run",
+    "range": 1.93,
+    "kcal": 179,
+    "duration": "00:29:56",
+    "totalSteps": 27973,
+    "avgHeartRate": 113
+  }
+]
